@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmOQlKwSPPa5IxbGOrZyk5GNoNEZM5xuOHGCNl9ZxKyHspssEPS9JkUpzck3u/eVbOy6IVOXDSH/EP5tVljw4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jyoshna\\Downloads\\test\\src\\Sample.Domain\\Sample.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jyoshna\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Jyoshna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jyoshna\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

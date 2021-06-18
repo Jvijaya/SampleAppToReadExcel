@@ -1,0 +1,12 @@
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\bin\Debug\netcoreapp3.1\Sample.Application.deps.json
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\bin\Debug\netcoreapp3.1\Sample.Application.dll
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\bin\Debug\netcoreapp3.1\Sample.Application.pdb
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\bin\Debug\netcoreapp3.1\Sample.Domain.dll
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\bin\Debug\netcoreapp3.1\Sample.Domain.pdb
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.csprojAssemblyReference.cache
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.AssemblyInfoInputs.cache
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.AssemblyInfo.cs
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.csproj.CopyComplete
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.dll
+C:\Users\Jyoshna\Downloads\test\src\Sample.Application\obj\Debug\netcoreapp3.1\Sample.Application.pdb

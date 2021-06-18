@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Index page</h1>
+</div>
+
+<form asp-controller="Home" asp-action="import" enctype="multipart/form-data">
+    <div class="col-auto">
+        <label for="fileupload" class="visually-hidden">Upload excel data</label>
+        <input type="file" id="fileupload" name="formFile" class="form-control" />
+    </div>
+    <div class="clearfix">&nbsp;</div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-primary mb-3" id="btnupload">Upload</button>
+    </div>
+    <div class="clearfix">&nbsp;</div>
+    <div class="col-auto">
+        <label class="visually-hidden">To fetch data from database click download</label>
+        <a href="@Url.Action("Download", "Home")">Download</a>
+    </div>
+</form>
